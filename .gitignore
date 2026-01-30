@@ -5,3 +5,14 @@ __pycache__/
 venv/
 .vscode/
 *.log
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Sound file (included in release)
+e.mp3
+
+# Claude settings
+.claude/
